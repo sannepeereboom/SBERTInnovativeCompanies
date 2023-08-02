@@ -1,1 +1,1 @@
-# SBERTInnovativeCompanies
+# SBERT Innovative Companies
