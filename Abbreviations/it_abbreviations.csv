@@ -1,0 +1,365 @@
+Afkorting,Betekenis(sen)
+@,"at-teken of apenstaart, @-teken"
+AAA,"Authentication, Authorization en Accounting"
+AAC,Advanced Audio Coding
+AAL,ATM Adaption Layer
+AARP,AppleTalk Address Resolution Protocol
+ABI,application binary interface
+ABIOS,Advanced BIOS
+ACF/NCP,Advanced Communications Function/Network Control Program
+ACF,Application Configuration File
+ACGI,Asynchronous CGI
+ACK,Acknowledge
+ACL,Appletalk Class Library
+ACL,access control list
+ACPI,advanced configuration and power integration
+ACR,Allowed Cell Rate
+AD,Active Directory
+ADC,analog-to-digital converter of Apple Display Connector
+ADF,Automatic Document Feeder of Automated Document Factory
+ADO,ActiveX Data Objects
+ADPCM,adaptive differential pulse-code modulation
+ADSI,Active Directory Services Interface
+ADSL,asymmetric digital subscriber line
+ADSP,AppleTalk Data Stream Protocol
+ADSU,ATM DSU
+AES,Advanced Encryption Standard
+AF,Anisotropische Filtering
+AFP,"AppleTalk Filing Protocol, Advanced Functions Presentations"
+AFR,alternate frame rendering
+AGP,accelerated graphics port
+AH,Authentication Header
+AI,artificiële intelligentie
+AIF,Auto Increment Field
+AIFF,Audio Interchange File Format
+AIM,AOL Instant Messenger
+AIO,Asynchronous Input/Output
+AIT,Advanced Intelligent Tape
+AJAX,Asynchronous JavaScript And XML
+Algol,Algorithmic Language (programmeertaal)
+ALU,arithmetic/logic unit
+AMP,asymmetric multiprocessing
+AMR,audio/modem riser
+AMU,Address Management Unit
+ANSI,American National Standards Institute
+AOCE,Apple Open Collaboration Environment
+AODI,Always On/Dynamic ISDN
+AP,access point
+API,application programming interface
+APM,"advanced power management, Application Performance Management"
+APON,ATM Passive Optical Network
+APP,Asynchronous Pluggable Protocal
+ARAP,AppleTalk Remote Access Protocol
+ARD,Apple Remote Desktop
+ARM,Asynchronous Response Mode
+ARP,address resolution protocol
+ARPC,Asynchrone Remote Procedure Call
+ARQ,automated repeat request
+ASAM,ATM Subscriber Access Multiplexer
+ASC,Apple Sound Chip
+ASCII,American Standard Code for Information Interchange
+ASF,Advanced Streaming Format
+ASF,Auto Sheet Feeder
+ASIC,application-specific integrated circuit
+ASIP,AppleShare IP
+ASP,"AppleTalk Session Protocol, Active Server Pages, Application Service Provider, Auxiliary Signal Path"
+ASPI,advanced SCSI programming interface
+ASR,automatic system recovery
+AST,Automatic Spanning Tree
+ASV,Advanced Super View
+AT&T,geregistreerd handelsmerk van American Telephone and Telegraph Company
+AT,Advanced Technology
+ATA,Advanced Technology Attachment
+ATAG,Authoring Tool Accessibility Guidelines
+ATAPI,Advanced Technology Attachment Packet Interface
+ATC,Advanced Transfer Cache
+ATL,Active Template Library
+ATLAP,AppleTalk Link Access Protocol
+ATM,"Adobe Type Manager, asynchronous transfer mode"
+ATRAC,Adaptive TRansform Acoustic Coding
+ATU-C,ADSL Transmission Unit at Central Office
+ATU-R,ADSL Transmission Unit for Resident
+AU,Access Unit
+AUI,attachment unit interface
+AURP,AppleTalk Update-Based Routing Protocol
+AV,"Access Violation, Anti-Virus"
+AVC,Advanced Video Coding
+AVI,Audio Video Interleaved (zie ook extensie .avi)
+AVM,ATM Voice Multiplexer
+AWT,abstract windowing toolkit
+BASIC,Beginners All-purpose Symbolic Instruction Code
+BCC,blind carbon copy
+BCD,binary-coded decimal
+BBS,bulletin board system
+BIOS,basic input/output system
+bit,binary digit
+BLOB,binary large object
+BMP,extensie van een bitmapafbeelding
+BNIX,Belgian National Internet eXchange
+BPM,Business Process Management
+BU,business unit
+©,copyright
+CAD,computer-aided design
+CBR,constant bit-rate
+CBT,computer-based training
+CC,"carbon copy, copy conform, Control Class"
+CCD,charge-coupled device
+CCS7,Common Channel Signalling System nr. 7
+cd,compact disc
+CDMA,code-division multiple access; een digitale cellulaire technologie
+cd-rom,compact disc read-only memory; cd-romstation
+CLOB,character large object
+CMOS,complementary metal oxide semiconductor
+COBOL,COmmon Business Oriented Language
+codec,coder/decoder
+CPU,central processing unit
+CMS,contentmanagementsysteem
+CRM,"customer relationship management, een softwarepakket voor het beheren van klantgegevens en interacties"
+CRT,"cathode ray tube, CRT-beeldscherm"
+CSS,Cascading Style Sheets
+CT,computertomografie
+cve,centrale verwerkingseenheid
+D-8,Developing 8
+DAC,digital-to-analog converter
+DAL,Data Access Layer
+DAO,Data Access Objects
+dat,digital audio tape
+DAT,Differentiële Aanleg Testserie
+DBMS,databasemanagementsysteem
+DD,Double Density
+DDR,Double Data Rate
+DHCP,Dynamic Host Configuration Protocol; DHCP-servers
+DHTML,Dynamic HyperText Markup Language
+DIMM-sleuf,dual in-line memory module
+DKIM,DomainKeys Identified Mail
+DMA,Direct Memory Access
+DNS,Domain Name System of name-server (vertaling van URL'S naar IP-adressen)
+DPOF,Digital Print Order Format
+DOS,disk operating system
+DDOS,Distributed Denial of Service Attack
+DPCM,Differential PCM
+DSLAM,Digital Subscriber Line Access Multiplexer
+DSL,Domain-Specific Language
+DSSSL,Document Style Semantics and Specification
+DTD,document type definition
+dtp,desktoppublishing
+dvd,digital versatile disk
+Dvd,Digital Video Disc
+DVI,Digital Video Interface
+DWR,Direct Web Remoting
+EAI,enterprise application integration
+EB,exabyte
+EBCDIC,extended binary-coded decimal interchange code
+EiB,"exbibyte of European Installation Bus, een domoticastandaard"
+ELT,Emergency Locator Transmitter
+e-mail,"electronic mail, elektronische post; e-mailadres"
+EMS,Enhanced Messaging Service
+ENIAC,Electronic Numerical Integrator And Calculator
+EPROM,erasable programmable read-only memory
+ERP(S),enterprise resource planning (System) veelal administratie- & boekhoudsoftware
+ESB,enterprise service bus
+ESP,electronic stability program
+Exif,Exchangeable image file format
+Ext2,Second extended file system
+FAQ,frequently asked questions
+FAT,File Allocation Table
+fax,telefacsimile
+FF,"Firefox (webbrowser); Fast Forward (audio/video: snel vooruit spoelen, vaak >> )"
+FHS,"Filesystem Hierarchy Standard voor bestandssystemen, een onderdeel van de Linux Standard Base"
+Fifo,First in - first out
+FSB,front-side bus
+FTP,"file transfer protocol, basis-internetfunctie voor uitwisseling van bestanden tussen computers"
+fte,fulltime-equivalent (eenheid van werktijd)
+GB,gigabyte
+GHz,gigahertz
+GiB,gibibyte
+GMT,Greenwich Mean Time
+GPRS,general packet radio service
+gps,global positioning system
+gsm,global system for mobile communications; (Groupe Spéciale Mobile)
+hd,High Density / high definition
+hd,"harddisk, harde schijf"
+HDMI,high-definition multimedia interface
+HDSL,High-speed Digital Subscriber Line
+HP,"Hewlett Packard Hewlett-Packard Company; HP LaserJet; Hit Points, in computerrollenspellen"
+HREELS,High Resolution Electron Energy Loss Spectroscopy
+HRM,humanresourcesmanagement
+HSDPA,High-Speed Downlink Packet Access een pakketgeschakelde mobiele (data)communicatiedienst download
+HSUPA,High-Speed Uplink Packet Access een pakketgeschakelde mobiele (data)communicatiedienst upload
+HTML,HyperText Markup Language
+HTTP,HyperText Transfer Protocol
+HUD,head-up display
+Hz,hertz
+IBM,International Business Machines Corporation
+IC,integrated circuit
+ICT,informatie- en communicatietechnologie
+IE,"Internet Explorer, IE10"
+IHE,Integrating the Healthcare Enterprise
+IMAP,Internet Message Access Protocol
+IMEI,international mobile equipment identity
+Intel,geregistreerd handelsmerk van Intel Corporation
+I/O,input/output
+IP,"internetprotocol; IP-adres, Internet Protocol-adres"
+IPX/SPX,"?, IPX/SPX-protocollen"
+IRC,Internet Relay Chat
+IS,Image Stabilizer
+ISDN,integrated services digital network
+ISO,"Internationale Organisatie voor Standaardisatie, ISO 13406-2 (certificatie)"
+ISPL,information services procurement library
+IT,informatietechnologie
+JDBC,Java DataBase Connectivity
+jpg,"Dit is een veelvoorkomende bestandsextensie van JPEG. Dit staat voor ""joint photographic experts group""."
+JSON,JavaScript Object Notation
+kB,kilobyte
+kHz,kilohertz
+KiB,kibibyte
+LAN,local area network
+lcd,"liquid-crystal display, lcd-scherm"
+led,light emitting diode
+Lotus,geregistreerd handelsmerk van Lotus Development Corporation
+Lsb,Least significant bit
+LSB,Linux Standard Base
+LTSP,Linux Terminal Server Project
+MAM,Mobile Application Management
+MANet,Mobile ad hoc Network
+MAPI,messaging application programming interface
+MB,megabyte
+Mbit,megabit (ook: Mb)
+MDM,mobile device management
+mHz,millihertz
+MHz,megahertz
+midi,musical instrument digital interface
+MiB,mebibyte
+mLAN,music Local Area Network
+modem,modulator-demodulator
+MOSFET,metal-oxide-semiconductor field-effect transistor
+MP,"magic points, in computerrollenspellen"
+MP 3,Motion Picture (layer) 3
+MS,Microsoft
+MSC,Microsoft Common
+MS-DOS,Microsoft Disk Operating System
+MSN,Microsoft Network
+MSX,"Machines with Software eXchangeability, MicroSoft eXtended"
+NAK / NACK,negative acknowledgment of non-acknowledged
+NAT,network address translation
+NFC,near-field communication
+NTDS,New Technology Directory Service
+NTFS,New Technology File System
+NIC,network interface card Adapterkaart (meestal ethernet) geïnstalleerd in een computer voor een verbinding met het netwerk.
+OASIS,Organization for the Advancement of Structured Information Standards
+ODBC,Open DataBase Connectivity
+OE,Outlook Express
+OO,objectgeoriënteerd
+OS,operating system
+OSD,on-screen display
+PAN,personal area network
+PB,petabyte
+pc,personal computer
+PCI,Peripheral Component Interconnect; Specificatie gebruikt voor adapterkaarten die in computers worden geïnstalleerd.
+PCL,"printer command language, om printer typografisch aan te sturen; PCL6-printerdriver"
+PCM,pulse-code modulation
+PCT,Patent Cooperation Treaty
+PD,publiek domein
+PDF,portable document format; PDF-indeling
+PGP,Pretty Good Privacy; PGP-indeling
+PHP,PHP Hypertext Preprocesser; Server-sided scripting taal voor websites
+PiB,Pebibyte
+PID,Project Initiation Document
+pin,persoonlijk identificatienummer; pincode; pinautomaat
+POP,post office protocol; POP3 Dit is de meest recente versie van een standaardprotocol voor het ontvangen van e-mail.
+POTS,Publicly Operated Telephony System
+PS,"PostScript, geregistreerd handelsmerk van Adobe Systems / Adobe Photoshop"
+PSTN,Public Switched Telephone Network
+P.T.T.,"Posterijen, Telegrafie, Telefonie"
+PVA,"?, PVA-paneeltechnologie"
+PVC,"permanent virtual channel, permanent virtual connection, permanent virtual circuit."
+QED,Quantum Electro Dynamics
+®,geregistreerd
+RAD,rapid application development
+RADIUS,remote authentication dial-in user service
+RAID,"redundant array of independent disks, redundant array of inexpensive disks"
+RAM,random-access memory
+RAM-geheugen,random-access memory
+RAM-geheugen - FPM,"fast page mode, dynamisch RAM-geheugen (DRAM)"
+RAM-geheugen - DDR SDRAM,"double data rate SDRAM, dynamisch RAM-geheugen (DRAM)"
+RAM-geheugen - RDRAM,"Rambus Dynamic RAM, dynamisch RAM-geheugen (DRAM)"
+RAM-geheugen - EDO,"extended data output, dynamisch RAM-geheugen (DRAM)"
+RAM-geheugen - RIMM,"Rambus Inline Memory Module, dynamisch RAM-geheugen (DRAM)"
+RAR,"Roshal ARchive, datacompressie-algoritme en extensie van een archiefbestand"
+RARP,reverse address resolution protocol
+RAVeL,Réseau Autonome de Voies Lentes
+RDF,Resource Description Framework
+RDS,radio data system
+RET,Resolution enhancement technology
+RIS,Remote Installation Services
+RGB,Rood-Groen-Blauw
+ROM,read-only memory
+rtf,rich text format
+SD,Synchronous Dynamic / Secure Digital (geheugenkaart)
+SDH,synchronous digital hierarchy
+SDHC,Secure Digital High Capacity
+SDXC,Secure Digital Extended Capacity
+SEO,Search Engine Optimization zoekmachineoptimalisatie
+SFTP,shielded foiled twisted pair
+SI,Système International
+SIS,Sociaal Informatiesysteem
+SMTP,Simple Mail Transfer Protocol
+SNMP,Simple Network Management Protocol
+SOA,service oriented architecture
+SOC,system-on-a-chip
+SOAP,"Aanvankelijk een afkorting voor Simple Object Access Protocol, maar sinds versie 1.2 gewoon SOAP"
+SP2,Service Pack 2
+SQL,Structured Query Language
+SS,signaling system
+SSL,Secure Sockets Layer
+STP,shielded twisted pair
+SVC,"switched virtual channel, switched virtual connection"
+Sysop,system operator
+tab.,tabel / tabulator
+TB,terabyte
+TCO,"?, TCO 03, Total cost of ownership"
+TCP,"Transmission Control Protocol, TCP/IP-protocollen"
+tft,"thin-film transistor, tft-scherm"
+TiB,tebibyte
+TLS,Transport Layer Security
+™,Trade mark
+UBR,Unspecified Bit-Rate
+UDP,User Datagram Protocol
+UEFI,Unified Extensible Firmware Interface
+UMA,Upper Memory Area
+UMB,Upper Memory Blocks
+UMTS,universal mobile telecommunications system
+UPnP,Universal Plug and Play
+URL,"uniform resource locator, URL-adres, internetadres"
+USB,universal serial bus; USB; USB 2.0; USB-opslagapparaten; USB-station
+UTP,"unshielded twisted pair Kabel met draden om elkaar heen gedraaid, om de interferentie tussen de paren te verminderen."
+V,volt
+VBA,Visual Basic for Applications
+VBR,variable bit-rate
+VBS,Visual Basic Script
+VC,"virtual channel, virtual connection"
+VGA,video graphics array; VGA-kaart: video graphics accelerator
+VHDSL,Very High-speed Digital Subscriber Line
+VIVO,Video In Video Out
+VTA,visual tree assessment
+W,watt
+WAN,wide area network
+Widi,Wireless Display
+wifi,Wifi (Fantasie) logo-aanduiding die ten onrechte wordt gezien als afkorting voor wireless fidelity
+WLAN,Wireless Local Area Network
+WP,"WordPerfect, geregistreerd handelsmerk van WordPerfect Corporation"
+www,world-wide web
+W3,world-wide web
+W3C,World-wide web Consortium
+wysiwyg,What you see is what you get. Je krijgt wat je ziet.
+XHTML,Extensible HyperText Markup Language
+XML,Extensible Markup Language
+XPS,"XML Paper Specification (in Windows Vista en hoger, vergelijkbaar met PDF)"
+XSD,XML-Schemadefinitietaal
+XSL,Extensible Stylesheet Language
+XSL-FO,XSL Formatting Objects
+XSLT,Extensible Stylesheet Language Transformations
+YAGO,Yet Another Great Ontology
+YB,yottabyte
+xmp,eXtensible Metadata Platform
+ZB,zettabyte

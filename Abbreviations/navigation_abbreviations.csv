@@ -1,0 +1,36 @@
+Afkorting,Betekenis(sen)
+AIS,Automatic Identification System
+BRG,Bearing
+COG,Course over ground
+CPA,Closest Point of Approach
+CTS,Course to steer
+DIS,Distance
+DME,Distance measuring equipment
+DR,Dead reckoning
+DTG,Distance to go
+DTK,Desired track
+EPE,Estimated positional error
+ETB,Estimated time of berth
+ETC,Estimated time of completion
+ETD,Estimated time of departure
+ETA,Estimated time of arrival
+ETE,Estimated time enroute
+GS,Ground speed
+HDG,Heading
+ILS,Instrument landing system
+LAT,Latitude
+LON,Longitude
+POS,Position
+RM,Relative motion
+RNG,Range
+ROT,Rate of turn
+SOG,Speed over ground
+tCPA,Time to CPA
+TM,True motion
+TRK,Track 
+TRN,Turn angle
+TTG,Time required to get to the destination
+VMG,Velocity made good
+VOR,VHF omnidirectional range station
+XTG,Cross track error
+XTK,Cross track error
