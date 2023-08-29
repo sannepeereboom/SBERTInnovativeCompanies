@@ -105,7 +105,7 @@ del cycles, i, left, right, sentences, sent_embeddings
 
 # Full texts
 
-paragraphs = pd.read_csv('Datasets/NHR_htmls_40000_sample.csv')
+paragraphs = pd.read_csv('Datasets/proc_NHR_htmls_40000_sample.csv')
 ABR = pd.read_csv('Datasets/2_ABR_adj.csv', sep=";")
 paragraphs = pd.merge(paragraphs, ABR, left_on = 'id', right_on = 'BEID')
 paragraphs.drop(columns = ["Unnamed: 0", "id", "Innov_x", "text_y", "lang"], inplace = True)
